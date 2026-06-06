@@ -1,0 +1,5 @@
+theia@theia-jxn1344:/home/project/mcino-Introduction-to-Git-and-Git
+Hub$ git branch -vv
+* bug-fix-revert f47807c [origin/bug-fix-revert] Task 3
+  bug-fix-typo   c5e004f [origin/bug-fix-typo] Fixed footer on README.md
+  main           0b516dc [origin/main: behind 2] Added tasks 1 and 2
